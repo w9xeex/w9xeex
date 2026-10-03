@@ -3,6 +3,7 @@
 Learning and building with Python. Studying at Kvantorium33.
 
 ✈️ [Telegram](https://t.me/w9xeex)
+📧 [Email](mailto: w9xeexurl@email.com)
 
 ---
 
