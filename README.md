@@ -17,7 +17,10 @@ Learning and building with Python. Studying at Kvantorium33.
 
 ## featured projects
 
-Coming soon 🚧
+### 🎵 [Track in Bio](https://github.com/w9xeex/ayugram-track-in-bio)
+A plugin for AyuGram / exteraGram that shows the track you are listening to in your Telegram bio, and restores your original bio when the music stops.
+
+Works via Last.fm: your scrobbler sends the track, the plugin picks it up and updates your bio every 30 seconds.
 
 ---
 
