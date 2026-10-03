@@ -1,4 +1,4 @@
-щ## about
+## about
 
 Learning and building with Python. Studying at Kvantorium33.
 
