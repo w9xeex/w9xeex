@@ -1,16 +1,26 @@
-## Hi there 👋
+## about
 
-<!--
-**w9xeex/w9xeex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning and building with Python. Studying at Kvantorium33.
 
-Here are some ideas to get you started:
+✈️ [Telegram](https://t.me/w9xeex)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## core skills
+
+<img src="https://skillicons.dev/icons?i=python,git,github" />
+
+- **languages:** Python
+- **tools:** Git
+
+---
+
+## featured projects
+
+Coming soon 🚧
+
+---
+
+## activity
+
+<img src="https://streak-stats.demolab.com/?user=w9xeex&theme=dark&hide_border=true" />
