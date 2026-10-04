@@ -12,6 +12,7 @@ Learning and building with Python. Studying at Kvantorium33.
 
 - **languages:** Python
 - **tools:** Git
+- **frameworks:** Flask, Pandas, OpenCV, Telebot
 
 ---
 
