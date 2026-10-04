@@ -29,3 +29,7 @@ Tested with [Lane](https://sklane.com/ru)
 ## activity
 
 <img src="https://streak-stats.demolab.com/?user=w9xeex&theme=dark&hide_border=true" />
+
+> ### Thank you for looking at the profile, and your view is one of them:
+> ![Я откис](https://komarev.com/ghpvc/?username=ArThirtyFour&style=for-the-badge)
+>
