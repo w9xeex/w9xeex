@@ -1,4 +1,4 @@
-## about
+## About
 
 Learning and building with Python. Studying at Kvantorium33.
 
@@ -6,7 +6,7 @@ Learning and building with Python. Studying at Kvantorium33.
 
 ---
 
-## core skills
+## Core skills
 
 <img src="https://skillicons.dev/icons?i=python,git,github" />
 
@@ -16,7 +16,7 @@ Learning and building with Python. Studying at Kvantorium33.
 
 ---
 
-## featured projects
+## Featured projects
 
 ### 🎵 [Track in Bio](https://github.com/w9xeex/ayugram-track-in-bio)
 A plugin for AyuGram / exteraGram that shows the track you are listening to in your Telegram bio, and restores your original bio when the music stops.
@@ -26,10 +26,10 @@ Tested with [Lane](https://sklane.com/ru)
 
 ---
 
-## activity
+## Activity
 
 <img src="https://streak-stats.demolab.com/?user=w9xeex&theme=dark&hide_border=true" />
 
 > ### Thank you for looking at the profile, and your view is one of them:
-> ![Я откис](https://komarev.com/ghpvc/?username=w9xeex&style=for-the-badge)
+> ![чота сломалось](https://komarev.com/ghpvc/?username=w9xeex&style=for-the-badge)
 >
