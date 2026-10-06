@@ -24,6 +24,11 @@ A plugin for AyuGram / exteraGram that shows the track you are listening to in y
 Works via Last.fm: your scrobbler sends the track, the plugin picks it up and updates your bio every 30 seconds.
 Tested with [Lane](https://sklane.com/ru)
 
+### ⌨️ [Layout Fix](https://github.com/w9xeex/ayugram-layout-fix)
+A plugin for AyuGram / exteraGram that fixes text typed in the wrong keyboard layout (`ghbdtn` → `привет`), automatically on send or on demand with `.fix`.
+
+Also fixes Caps Lock slips (`пРИВЕТ` → `Привет`), uses context hints for short words, supports custom ignore/force word lists, and adds a "fix layout" item to the message menu for decoding other people's gibberish.
+
 ---
 
 ## Activity
