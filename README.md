@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Nikolay
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=Learning+and+building+with+Python;Making+Telegram+plugins" alt="typing">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=Learning+and+building+with+Python" alt="typing">
 
 <a href="https://t.me/w9xeex"><img src="https://img.shields.io/badge/TELEGRAM-@w9xeex-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 
@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-Student at Kvantorium33. I take part in olympiads, write in Python and make plugins for AyuGram / exteraGram.
+Student at Kvantorium33. I take part in olympiads, write in Python and I'm learning to make plugins for AyuGram / exteraGram.
 
 ## 🚀 Featured Projects
 
