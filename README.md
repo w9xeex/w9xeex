@@ -39,3 +39,11 @@ Fixes text typed in the wrong keyboard layout. **Development is on hold:** the p
 ### Tools
 
 <p><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"></p>
+
+## Activity
+
+<img src="https://streak-stats.demolab.com/?user=w9xeex&theme=dark&hide_border=true" />
+
+> ### Thank you for looking at the profile, and your view is one of them:
+> !чота сломалось
+>
