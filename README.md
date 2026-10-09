@@ -1,35 +1,78 @@
-## About
+<div align="center">
 
-Learning and building with Python. Studying at Kvantorium33.
+# Hi 👋 I'm Nikolay
 
-✈️ [Telegram](https://t.me/w9xeex) ✉️ [Email](mailto:w9xeexurl@email.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Learning+and+building+with+Python;Making+Telegram+plugins" alt="typing">
 
----
+<a href="https://t.me/w9xeex"><img src="https://img.shields.io/badge/TELEGRAM-@w9xeex-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-## Core skills
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,git,github" />
+## 🧑‍💻 About Me
 
-- **languages:** Python
-- **tools:** Git
-- **frameworks:** Flask, Pandas, OpenCV, Telebot
+Student at Kvantorium33. I take part in olympiads, write in Python and make plugins for AyuGram / exteraGram.
 
----
+## 🚀 Featured Projects
 
-## Featured projects
+### 🎵 Track in Bio
+Shows the track you are listening to in your Telegram bio.
 
-### 🎵 [Track in Bio](https://github.com/w9xeex/ayugram-track-in-bio)
-A plugin for AyuGram / exteraGram that shows the track you are listening to in your Telegram bio, and restores your original bio when the music stops.
+### ⌨️ Layout Fix
 
-Works via Last.fm: your scrobbler sends the track, the plugin picks it up and updates your bio every 30 seconds.
-Tested with [Lane](https://sklane.com/ru)
 
----
+!Status
 
-## Activity
 
-<img src="https://streak-stats.demolab.com/?user=w9xeex&theme=dark&hide_border=true" />
 
-> ### Thank you for looking at the profile, and your view is one of them:
-> ![чота сломалось](https://komarev.com/ghpvc/?username=w9xeex&style=for-the-badge)
->
+Fixes text typed in the wrong keyboard layout. Development is on hold: the plugin is mostly useful on desktop, and desktop clients don't support plugins yet, so I'm waiting for that.
+
+## 🛠️ Tech Stack
+
+### Languages
+
+
+!Python
+
+
+
+### Frameworks & Libraries
+
+
+!Flask
+
+
+
+
+!Pandas
+
+
+
+
+!OpenCV
+
+
+
+### Tools
+
+
+!Git
+
+
+
+
+!GitHub
+
+
+
+
+!VS Code
+
+
+
+
+!PyCharm
+
+
+
+
+!Figma
