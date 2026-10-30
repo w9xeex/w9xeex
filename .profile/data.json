@@ -1,5 +1,5 @@
 {
- "key": "a562eada",
+ "key": "d00d6570",
  "stars": 3,
  "contributions": 40,
  "repos": 3,
@@ -109,9 +109,13 @@
    {
     "c": 0,
     "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
     "today": true
    },
-   null,
    null
   ]
  ],
