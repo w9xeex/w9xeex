@@ -1,9 +1,9 @@
 {
- "key": "700818b3",
+ "key": "5449095",
  "stars": 3,
  "contributions": 40,
  "repos": 3,
- "followers": 6,
+ "followers": 5,
  "languages": [
   [
    "Python",
@@ -89,9 +89,13 @@
    {
     "c": 0,
     "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
     "today": true
    },
-   null,
    null,
    null,
    null,
