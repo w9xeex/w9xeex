@@ -1,9 +1,9 @@
 {
- "key": "77e24fd6",
+ "key": "d1ec7b8",
  "stars": 3,
  "contributions": 40,
  "repos": 3,
- "followers": 7,
+ "followers": 6,
  "languages": [
   [
    "Python",
@@ -114,9 +114,13 @@
    {
     "c": 0,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
